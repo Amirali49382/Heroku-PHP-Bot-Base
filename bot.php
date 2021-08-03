@@ -25,7 +25,7 @@ foreach ($telegram_ip_ranges as $telegram_ip_range) if (!$ok) {
 	}
 if(!$ok)
 {
-	exit(header("location: https://snowypage.xyz"));
+	exit(header("location: https://freehostforme.herokuapp.com"));
 	}
 //-----------------------------------------------------------------------------------------------
 //functions
